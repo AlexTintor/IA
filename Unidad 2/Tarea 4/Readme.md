@@ -1,5 +1,5 @@
 IA de 9-10 am  
-Tarea 4  
+Tarea 1  
 Primeros pasos para crear un "SISTEMA EXPERTO"  
 - Integrantes:  
 Alex Fernando Bojórquez Rojas  
